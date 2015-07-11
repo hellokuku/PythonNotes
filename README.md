@@ -1,7 +1,10 @@
 # PythonNotes
 
 ==========================
-## `<<Learning Python>>`
+* 1⃣️`<<Learning Python>>`
+* 2⃣️`Python基础教程第二版`
+
+
 
 ###Reading status:
 
@@ -27,3 +30,4 @@ Date         |  Page 			|   Status
 0728         | Center        	| <font color="RED"><font>
 0729         | Center        	| <font color="RED"><font>
 0730         | Center        	| <font color="RED"><font>
+0731         | Center          | <font color="RED"><font>

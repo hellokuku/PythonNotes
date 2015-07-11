@@ -7,8 +7,8 @@
 
 Date         |  Page 			|   Status
 :----------- | :-----------: 	| :-----------:
-0711         | Center        	| <font color="GREEN">ACCPET<font>
-0712         | Center        	| <font color="RED"><font>
+0711         | Center        	| <font color="GREEN">√<font>
+0712         | Center        	| <font color="RED">✕<font>
 0713         | Center        	| <font color="RED"><font>
 0714         | Center        	| <font color="RED"><font>
 0715         | Center        	| <font color="RED"><font>

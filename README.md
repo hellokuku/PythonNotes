@@ -14,7 +14,7 @@
 :----------- | :-----------: 	| :-----------:
 0711         | 0/491        	| <font color="red">✕<font>
 0712         | 0/491        	| <font color="RED">✕<font>
-0713         | /491        	| <font color="RED"><font>
+0713         | 59/491        	| <font color="green">√<font>
 0714         | /491        	| <font color="RED"><font>
 0715         | /491        	| <font color="RED"><font>
 0716         | /491        	| <font color="RED"><font>
@@ -41,8 +41,8 @@
 
 >Date         |  Page 			|   Status
 :----------- | :-----------: 	| :-----------:
-0712         | 0/1162        	| <font color="RED">✕<font>
-0713         | 0/1162        	| <font color="RED"><font>
+0712         | 0/1162        	| <font color="RED">X<font>
+0713         | 0/1162        	| <font color="RED">X<font>
 0714         | /1162        	| <font color="RED"><font>
 0715         | /1162        	| <font color="RED"><font>
 0716         | /1162        	| <font color="RED"><font>

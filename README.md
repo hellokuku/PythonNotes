@@ -17,7 +17,7 @@
 0713         | 59/491        	| <font color="green">√<font>
 0714         | 69/491        	| <font color="RED">√<font>
 0715         | 78/491        	| <font color="Green">√<font>
-0716         | /491        	| <font color="RED"><font>
+0716         | 130/491        	| <font color="green"><font>
 0717         | /491        	| <font color="RED"><font>
 0718         | /491        	| <font color="RED"><font>
 0719         | /491        	| <font color="RED"><font>
@@ -43,9 +43,9 @@
 :----------- | :-----------: 	| :-----------:
 0712         | 0/1162        	| <font color="RED">X<font>
 0713         | 0/1162        	| <font color="RED">X<font>
-0714         | /1162        	| <font color="RED"><font>
-0715         | /1162        	| <font color="RED"><font>
-0716         | /1162        	| <font color="RED"><font>
+0714         | 0/1162        	| <font color="RED">X<font>
+0715         | 0/1162        	| <font color="RED">X<font>
+0716         | 0/1162        	| <font color="RED">X<font>
 0717         | /1162        	| <font color="RED"><font>
 0718         | /1162        	| <font color="RED"><font>
 0719         | /1162        	| <font color="RED"><font>

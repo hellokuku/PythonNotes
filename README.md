@@ -17,7 +17,7 @@
 0713         | 59/491        	| <font color="green">√<font>
 0714         | 69/491        	| <font color="RED">√<font>
 0715         | 78/491        	| <font color="Green">√<font>
-0716         | 130/491        	| <font color="green"><font>
+0716         | 130/491        	| <font color="green">√<font>
 0717         | /491        	| <font color="RED"><font>
 0718         | /491        	| <font color="RED"><font>
 0719         | /491        	| <font color="RED"><font>

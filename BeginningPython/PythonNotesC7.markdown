@@ -106,5 +106,24 @@
 	finally:
 		...
 	or try: except: else: finally
-	finally肯定会执行				
+	finally肯定会执行
 	
+###Chapter 9
+				
+	super()
+	property()
+	
+	staticmethod() 静态方法  没有self参数 且能被类本身直接调用
+	classmethod()	类成员方法
+	
+	@ 装饰器  在方法或函数的上方将装饰器列出，从而指定一个或者多个的装饰器（多个装饰器在应用时的顺序与制定顺序相反）
+	
+	
+	迭代器 __iter__
+	
+	yield 生成器 
+	与 return 区别 return 返回值，yield每次产生多个值
+	
+	生成器推导式 可以迭代
+	>>> g = (x for x in range(2,12))
+	>>> g.next()

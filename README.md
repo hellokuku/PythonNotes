@@ -25,7 +25,7 @@
 0721         | 130/491        	| <font color="RED">✕<font>
 0722         | 130/491        	| <font color="RED">✕<font>
 0723         | 156/491        	| <font color="Green">√<font>
-0724         | /491        	| <font color="RED"><font>
+0724         | 174/491        	| <font color="Green">√<font>
 0725         | /491        	| <font color="RED"><font>
 0726         | /491        	| <font color="RED"><font>
 0727         | /491        	| <font color="RED"><font>

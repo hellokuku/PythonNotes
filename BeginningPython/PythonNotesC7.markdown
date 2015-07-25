@@ -121,7 +121,10 @@
 	
 	迭代器 __iter__
 	
-	yield 生成器 
+`yield 生成器` ***important
+	
+	[wolfram MathWorld](http://mathworld.wolfram.com/Graph.html)
+	
 	与 return 区别 return 返回值，yield每次产生多个值
 	
 	生成器推导式 可以迭代

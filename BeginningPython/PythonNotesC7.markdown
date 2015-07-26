@@ -130,3 +130,48 @@
 	生成器推导式 可以迭代
 	>>> g = (x for x in range(2,12))
 	>>> g.next()
+	
+###Chapter 10
+
+	sys
+	os
+	fileinput
+	set
+	heapq
+	deque
+	time
+	random
+	shelve
+		潜在的陷阱：写入需要副本来保存 shelve.open函数返回的对象并不是普通的某某类型（如字典映射）p206-207
+		或者添加 writeback=true参数
+	
+	re模块
+	compile
+	search
+	match
+	split
+	findall
+	sub
+	escape
+	
+###Chapter 11
+	
+	'r' 读模式
+	'w' 写模式
+	'a' 追加模式
+	'b' 二进制 声音图像等..'rb'读取二进制
+	'+' 读/写
+	UNIX 换行 \n
+	Windows 换行 \r\n
+	
+###Chapter 12
+
+	一些支持GUI的Python工具包
+	
+	Tkinter
+	wxpython
+	PythonWin
+	Java Swing
+	PyGTK
+	PyQt
+	

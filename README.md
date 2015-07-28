@@ -28,8 +28,8 @@
 0724         | 174/491        	| <font color="Green">√<font>
 0725         | 206/491        	| <font color="Green">√<font>
 0726         | 249/491        	| <font color="RED">√<font>
-0727         | /491        	| <font color="RED"><font>
-0728         | /491        	| <font color="RED"><font>
+0727         | 249/491        	| <font color="RED">X<font>
+0728         | 261/491        	| <font color="Green">√<font>
 0729         | /491        	| <font color="RED"><font>
 0730         | /491        	| <font color="RED"><font>
 0731         | /491        | <font color="RED"><font>

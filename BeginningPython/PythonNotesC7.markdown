@@ -200,3 +200,33 @@
 		* 分叉(forking)
 		* 线程(threading)
 		* 异步I/O(asynchronous I/O)
+	
+###Chapter 15
+	
+	mod_python
+
+###Chapter 16
+	
+	* unittest 通用测试框架
+	* doctest 用于检查字符串中的例子
+	* PyCheck PyLint
+	
+###Chapter 17
+	
+	* CPython
+	* Psyco
+	* Pyrex
+	* PyPy
+	* Weave
+	* NumPy
+	* ctypes
+	* Subprocess
+	* PyCXX
+	* SIP
+	* Boot.Python
+	* Modulator
+	Swig
+	
+###Chapter 18
+
+	Distutils 
